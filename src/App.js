@@ -1,5 +1,5 @@
 import './App.css';
-import React, {useEffect, useState} from 'react';
+import React from 'react';
 import Educ from './Educ';
 import Exper from './Exper';
 import LandPage from './landPage';
