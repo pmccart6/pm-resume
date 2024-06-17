@@ -1,0 +1,47 @@
+div#jumpField {
+    height: 100%;
+}
+
+button{
+    text-align: center;
+    border: none;
+    margin: 0.3em;
+    font-size: 1em;
+    background-color: #000000;
+    color: #FFFFFF;
+}
+
+#ownerName{
+    font-size: 3em;
+}
+
+.App{
+    font-family: Arial, Helvetica, sans-serif;
+    height:100%;
+    width: 100%;
+    position:fixed;
+}
+
+#colorPicks{
+    position:fixed;
+    text-align: right;
+    bottom:0;
+    right:0;
+}
+
+#centeredInfo{
+    right:40%;
+    top:40%;
+    position: fixed;
+}
+
+.actLink{
+    border-bottom: 0.5em;
+    border-color: #FFFFFF;
+}
+
+#navbar{
+    background-color: #000000;
+    color:#FFFFFF;
+    text-align: center;
+}
