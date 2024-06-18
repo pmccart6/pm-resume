@@ -12,9 +12,9 @@ function App() {
     <div className='App'>
       <ThemeProvider>
         <Routes>
-          <Route path='/pm-resume' element={<LandPage />}></Route>
-          <Route path='/pm-resume/education' element={<Educ />}></Route>
-          <Route path='/pm-resume/experience' element={<Exper />}></Route>
+          <Route path='/' element={<LandPage />}></Route>
+          <Route path='/education' element={<Educ />}></Route>
+          <Route path='/experience' element={<Exper />}></Route>
         </Routes>
       </ThemeProvider>
     </div>
